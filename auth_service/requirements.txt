@@ -1,0 +1,9 @@
+aiokafka
+fastapi
+passlib
+python-jose
+jwt
+uvicorn
+pydantic[email]
+pydantic-settings
+requests

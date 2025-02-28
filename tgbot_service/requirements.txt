@@ -1,0 +1,6 @@
+aiokafka
+confluent_kafka
+kafka-python
+requests
+pydantic
+pydantic-settings
